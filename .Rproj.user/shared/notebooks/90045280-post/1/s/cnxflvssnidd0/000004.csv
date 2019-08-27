@@ -1,0 +1,7 @@
+"0","ggplot() +"
+"0","  geom_raster(data = temp_df, aes(x = x, y = y,  fill = value), interpolate = TRUE) +"
+"0","  geom_polygon(data = water_sp, aes(x = long, y = lat, group = group), color = ""gray90"", fill = ""white"") +"
+"0","  coord_equal() + # make sure that the x and y axis are comparable"
+"0","  theme_minimal()"
+"2","Regions defined for each Polygons
+"

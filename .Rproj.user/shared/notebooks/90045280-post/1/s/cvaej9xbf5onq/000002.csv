@@ -1,0 +1,7 @@
+"0","library(raster) # reading in and wrangling landsat data"
+"0","library(sf) # reading in and wrangling contextual data"
+"0","library(tidyverse)"
+"0","# devtools::install_github(""clauswilke/ggtext"")"
+"0","library(ggtext) # text in plots"
+"0","library(showtext) # more fonts"
+"0","font_add_google(""Lato"", regular.wt = 300, bold.wt = 700) # I like using Lato for data viz (and everything else...). Open sans is also great for web viewing."

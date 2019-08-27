@@ -1,0 +1,28 @@
+"0","landsat_dc_july18 <- raster(""data/LST_F_20180708.tif"") # saved the downloaded files in a data/ folder"
+"0","# water features in the city"
+"0","water <- st_read(""https://opendata.arcgis.com/datasets/db65ff0038ed4270acb1435d931201cf_24.geojson"") %>%"
+"0","  st_transform(st_crs(landsat_dc_july18)) # use the same coordinate reference system as the landsat data"
+"1","Reading layer `"
+"1","db65ff0038ed4270acb1435d931201cf_24"
+"1","' from data source `"
+"1","https://opendata.arcgis.com/datasets/db65ff0038ed4270acb1435d931201cf_24.geojson"
+"1","' using driver `"
+"1","GeoJSON"
+"1","'"
+"1","
+"
+"1","Simple feature collection with 1196 features and 8 fields"
+"1","
+"
+"1","geometry type:  POLYGON
+"
+"1","dimension:      XY
+"
+"1","bbox:           "
+"1","xmin: -77.11981 ymin: 38.79157 xmax: -76.91164 ymax: 38.99509"
+"1","
+"
+"1","epsg (SRID):    4326
+"
+"1","proj4string:    +proj=longlat +datum=WGS84 +no_defs
+"

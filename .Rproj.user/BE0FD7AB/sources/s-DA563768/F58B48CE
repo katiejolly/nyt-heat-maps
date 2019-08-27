@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566938509389.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2499828737",
+    "id" : "F58B48CE",
+    "lastKnownWriteTime" : 1566945285,
+    "last_content_update" : 1566945285394,
+    "path" : "~/nyt-heat-maps/post.Rmd",
+    "project_path" : "post.Rmd",
+    "properties" : {
+        "cursorPosition" : "91,507",
+        "scrollLine" : "90",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

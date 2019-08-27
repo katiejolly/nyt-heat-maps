@@ -1,0 +1,3 @@
+"0","temp_spdf <- as(landsat_dc_july18, ""SpatialPointsDataFrame"") # create spatialpoints dataframe"
+"0","temp_df <- as_tibble(temp_spdf) # convert that to a plain tibble"
+"0","colnames(temp_df) <- c(""value"", ""x"", ""y"") "

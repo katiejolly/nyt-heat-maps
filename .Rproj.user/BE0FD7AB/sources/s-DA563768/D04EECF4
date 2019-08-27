@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1566938500505.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D04EECF4",
+    "lastKnownWriteTime" : 1566942467,
+    "last_content_update" : 1566943225260,
+    "path" : "~/nyt-heat-maps/map.R",
+    "project_path" : "map.R",
+    "properties" : {
+        "cursorPosition" : "111,0",
+        "scrollLine" : "94"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
